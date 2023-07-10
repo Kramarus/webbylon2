@@ -1,0 +1,10 @@
+.price-tag {
+    transform: scale(2)!important;
+    color: #fad932;
+    font-size: 2.5rem;
+}
+
+strike {
+    color: grey;
+    font-size: 1.5rem;
+}
